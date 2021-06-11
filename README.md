@@ -1,23 +1,14 @@
-##  Beginner Portfolio Projects
-===============================
-
-This is a repository for all the beginner friendly vanilla JavaScript projects.
-Most of them are inspired by other Programmers and a few which are just custom.
-
-Any project done will be added to the list below.
-
-### 1. Christmas countdown
-
-This is just a countdown to the nearest Christmass.
-Inspired by Florin Pop.
-
-![christmas countdown](./Countdown/images/final.png)
 
 
 ### 2. Quiz App
 
 This is a simple quiz app that asks hardcoded questions and gives a score.
+I made it using `Vanilla JavaScript` and basic `HTML`  and `CSS`.
 
-It was fun making this one.
+The app was part of a commitment to make **100** `Vanilla JavaScript` projects.
+This was the second project I made.
 
-![quiz app](./quiz-app/images/quiz-app.png)
+![quiz app](./images/quiz-app.png)
+
+
+To run the app, just open the `index.html` file in your prefered browser.
